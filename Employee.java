@@ -3,6 +3,6 @@ class Employee{
 	{
 	System.out.println("name : "   +"Abhi");
 	System.out.println("emp id : " +22);
-	System.out.println("salary : " +50000);
+	System.out.println("salary : " +500);
 	}
 }
